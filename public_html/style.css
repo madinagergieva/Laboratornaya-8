@@ -11,3 +11,6 @@
 .text-black-40 {
   color: rgba(0,0,0,0.4)
 }
+.fill-80-viewport {
+  min-height: 80vh
+}
