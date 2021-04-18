@@ -17,4 +17,14 @@
 #info-3 {
     background: linear-gradient(rgba(100,181,246 ,0.3), rgba(0,0,0,0.8)),url(../img/foto.jpg) 0% 0%/cover;
 }
+.list-border-y li {
+  border-top: 1px solid
+}
+.list-border-y li:last-child {
+  border-bottom: 1px solid
+}
+.list-border-black-20 li,
+.list-border-black-20 li:last-child{
+  border-color: rgba(0,0,0,0.2)
+}
 
